@@ -16,6 +16,6 @@ Feel free to explore each project folder to gain insight into my design approach
 
 ## Contact Information
 
-If you have any inquiries, collaboration opportunities, or would like to discuss my projects further, please feel free to reach out to me at [sharmililoganathan25@gmail.com] or connect with me on [https://www.linkedin.com/in/sharmili-loganathan-26618a208?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4d%2FZ9xGsSSSVEBniYTuubw%3D%3D].
+If you have any inquiries, collaboration opportunities, or would like to discuss my projects further, please feel free to reach out to me at [sharmililoganathan25@gmail.com] or connect with me on [https://www.linkedin.com/in/sharmili-loganathan-26618a208?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4d%2FZ9xGsSSSVEBniYTuubw%3D%3D]
 
 Thank you for visiting my UI/UX Projects repository, and I look forward to connecting with you!
